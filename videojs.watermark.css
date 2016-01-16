@@ -1,0 +1,7 @@
+.vjs-watermark {
+    position: absolute;
+    display: inline;
+    width: 1em;
+    height: 1em;
+    z-index: -100000;
+}
